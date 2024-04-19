@@ -24,7 +24,7 @@
             <p><i class='fa-fw w3-margin-right w3-large w3-text-teal fa fa-briefcase'></i>Back-End            Developer</p>
             <p><i class='fa-fw w3-margin-right w3-large w3-text-teal fa fa-envelope'></i>gunlee1226@gmail.com
             </p>
-            <p><a href='https://github.com/gunlee1226' target='_blank' class="w3-hover-opacity">
+            <p><a href='https://github.com/gunlee1226/gun-resume' target='_blank' class="w3-hover-opacity">
                 <i class='fa-fw w3-margin-right w3-large w3-text-teal fab fa-github'></i>
                 gunlee1226</a></p>
           </div>
